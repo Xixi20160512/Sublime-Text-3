@@ -1,0 +1,39 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Alignment",
+		"All Autocomplete",
+		"AngularJS",
+		"AngularZen",
+		"AutoFileName",
+		"Autoprefixer",
+		"Boxy Theme",
+		"Boxy Theme Addon - Font Face",
+		"Boxy Theme Addon - Mono File Icons",
+		"BracketHighlighter",
+		"CSScomb",
+		"DocBlockr",
+		"DocBlockr_with_update_capability",
+		"Emmet",
+		"FullScreenStatus",
+		"Go To Definition",
+		"HTML-CSS-JS Prettify",
+		"IMESupport",
+		"JavaScript & NodeJS Snippets",
+		"JavaScript Snippets",
+		"jQuery",
+		"MarkdownEditing",
+		"Package Control",
+		"React Development Snippets",
+		"ReactJS",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"zz File Icons"
+	]
+}

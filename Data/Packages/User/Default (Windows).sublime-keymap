@@ -1,0 +1,5 @@
+[
+	{ "keys": ["ctrl+shift+d"], "command": "run_macro_file", "args": {"file": "res://Packages/Default/Delete Line.sublime-macro"} },
+	{ "keys": ["ctrl+shift+a"], "command": "alignment" },
+	{ "keys": ["ctrl+shift+m"], "command": "quick_switch_project" }
+]

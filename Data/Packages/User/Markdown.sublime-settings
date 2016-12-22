@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Boxy Theme/schemes/Boxy Tomorrow.tmTheme",
+	"extensions":
+	[
+		"mdown",
+		"txt",
+		"md"
+	],
+	"draw_centered": true,
+	"tab_size": 2,
+	"line_numbers": true,
+}
